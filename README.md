@@ -2,6 +2,14 @@
 Myanmar Dataset
 
 
+Myanmar Road Network Myanmar Information Management Unit (MIMU)
+Airports Myanmar
+HOTOSM Myanmar Health Facilities (OpenStreetMap Export)
+Formal Sector School Location Upper Myanmar
+Formal Sector School Location Lower Myanmar
+
+
+
 1. Map
     2. Geo Json
 3. Government
